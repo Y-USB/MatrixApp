@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/ic_information"
+            android:title="@string/information" />
+        <item
+            android:id="@+id/nav_paid_courses"
+            android:icon="@drawable/ic_paid_courses"
+            android:title="@string/paided_courses"/>
+
+        <item
+            android:id="@+id/nav_online_free_courses"
+            android:icon="@drawable/ic_free_courses"
+            android:title="@string/free_courses" />
+    </group>
+
+    <item android:title="hesab">
+        <menu>
+            <item
+                android:id="@+id/nav_share_app"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_change"
+                android:icon="@drawable/ic_change"
+                android:title="@string/changeProfile" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/exitFromAccount" />
+        </menu>
+    </item>
+
+</menu>

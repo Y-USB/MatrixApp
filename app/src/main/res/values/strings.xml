@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">matrix training center</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kənan Yusubov</string>
+    <string name="nav_header_subtitle">matrix tələbəsi</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">exit</string>
+    <string name="information">haqqımızda</string>
+    <string name="paided_courses">ödənişli kurslar</string>
+    <string name="free_courses">pulsuz onlayn kurslar</string>
+    <string name="share">paylaş</string>
+    <string name="changeProfile">dəyişiklik et</string>
+    <string name="exitFromAccount">hesabdan çıx</string>
+    <string name="staffInfo">təlimçilərimiz</string>
+    <string name="EditTextUsername">istifadəçi adı</string>
+    <string name="EditTextPassword">şifrə</string>
+    <string name="ButtonSignin">daxil ol</string>
+    <string name="joinUs">elə indi bizə qoşul!</string>
+    <string name="forgotpassword">şifrəni unutmusan?</string>
+    <string name="registration">qeydiyyatdan keç</string>
+    <string name="informationAboutUs">
+        Matrix Training center olaraq əsas məqsədimiz gənclərin özündə olan bacarıqlarını kəşf etməsinə köməklik etməkdir.
+    </string>
+    <string-array name="paid_courses">
+        <item>C#</item>
+        <item>Web</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
